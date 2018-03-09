@@ -13,8 +13,8 @@ sys.stderr = codecs.getwriter('utf-8')(sys.stderr.detach())
 E cole aqui seus IDs, lembre-se, tem que criar um app, pode colocar uma url 
  que não existe!
 '''
-foursquare_client_id = "Cole aqui seu ID Cliente"
-foursquare_client_secret = "Cole aqui seu ID SECRET"
+foursquare_client_id = "GO14AXXYW5IXVMLRCISKVAJRM0TROTYRVUOZXB4P1B0NWZIJ"
+foursquare_client_secret = "XLB5NXYS1YYQ5G1DPPLFJ0AJAXGVKZIENYICOBZKI3R43LRC"
 
 
 def acharRestaurante(tipoComida,localidade):
